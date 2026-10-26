@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLab3.PL", "OOPLab3.PL\OOPLab3.PL.csproj", "{23DE38D1-CF5F-497F-8974-AFF7A7ACAB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLab3.BLL", "OOPLab3.BLL\OOPLab3.BLL.csproj", "{066EA9F4-6A6D-4F2E-B5B6-F9C336415914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLab3.DAL", "OOPLab3.DAL\OOPLab3.DAL.csproj", "{D79535C2-30FC-4964-BAEC-724BF0FF51D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23DE38D1-CF5F-497F-8974-AFF7A7ACAB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DE38D1-CF5F-497F-8974-AFF7A7ACAB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DE38D1-CF5F-497F-8974-AFF7A7ACAB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DE38D1-CF5F-497F-8974-AFF7A7ACAB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066EA9F4-6A6D-4F2E-B5B6-F9C336415914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066EA9F4-6A6D-4F2E-B5B6-F9C336415914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066EA9F4-6A6D-4F2E-B5B6-F9C336415914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066EA9F4-6A6D-4F2E-B5B6-F9C336415914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79535C2-30FC-4964-BAEC-724BF0FF51D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79535C2-30FC-4964-BAEC-724BF0FF51D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79535C2-30FC-4964-BAEC-724BF0FF51D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79535C2-30FC-4964-BAEC-724BF0FF51D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
